@@ -19,7 +19,7 @@ In this project you will build an application that allows for todos to be added,
   [
     {
       name: 'Organize Garage',
-      id: 1528817077286, // could look different, you could use a timestamp to generate it
+      id: 1528817077286, 
       completed: false
     },
     {
